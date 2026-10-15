@@ -71,10 +71,6 @@ code/
   make_outputs.py   every table, figure and in-text number of the paper
   style.py          figure style
   requirements.txt
-optionB/
-  dhis2_extract.py  DHIS2 Web API extraction: metadata, zone-level counts and
-                    reporting-completeness metrics, weekly snapshots (vintages)
-  zone_model.py     zone-level model with DHIS2 completeness as an observation offset
 figures/            figures of the paper
 ```
 
