@@ -1,0 +1,38 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+title: "PG-NODE for Cholera (DR Congo): Coupling Compartmental Dynamics and Neural Networks under Imperfect Reporting"
+type: software
+authors:
+  - given-names: Selain K.
+    family-names: Kasereka
+  - given-names: Mahmoud
+    family-names: Hamed
+  - given-names: Eric M.
+    family-names: Mafuta
+  - given-names: Kyandoghere
+    family-names: Kyamakya
+repository-code: "https://github.com/sedjokas/PG-NODE-for-Cholera-DRCongo"
+license: MIT
+date-released: "2026-10-15"
+keywords:
+  - cholera
+  - physics-guided neural ODE
+  - epidemic forecasting
+  - DHIS2
+  - Democratic Republic of the Congo
+references:
+  - type: article
+    title: "PG-NODE^TB: Physics-Guided Neural Ordinary Differential Equations for Tuberculosis Transmission Dynamics"
+    authors:
+      - {given-names: Selain K., family-names: Kasereka}
+      - {given-names: Eric M., family-names: Mafuta}
+      - {given-names: Fadi, family-names: Al Machot}
+      - {given-names: Emmanuel M., family-names: Kabengele}
+      - {given-names: Jean Chamberlain, family-names: Chedjou}
+      - {given-names: Kyandoghere, family-names: Kyamakya}
+    journal: "Procedia Computer Science"
+    volume: 290
+    start: 208
+    end: 217
+    year: 2026
+    doi: "10.1016/j.procs.2026.08.386"

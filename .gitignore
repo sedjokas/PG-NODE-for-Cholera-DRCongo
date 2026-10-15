@@ -1,0 +1,10 @@
+# surveillance data and model outputs are not distributed
+data/
+results/
+*.csv
+*.npz
+*.pt
+*.pkl
+__pycache__/
+paper/generated/
+.DS_Store
